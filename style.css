@@ -1,0 +1,22 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #F3E9DC;
+}
+.header {
+    color: #e67297;
+}
+.food {
+    color: #B19CD9;
+}
+.footer {
+    color: #B19CD9;
+}
+.learn {
+    color: #8383C3;
+}
+.hobby {
+    color: #EC8074;
+}
+.animal {
+    color: #725A90;
+}
